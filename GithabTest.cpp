@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	cout << "HelloWard" << endl;
+	cout << "昨日、diablo2をクリアしました!";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
