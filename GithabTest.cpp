@@ -6,6 +6,9 @@ using namespace std;
 int main()
 {
 	cout << "HelloWard" << endl;
+	cout << "昨日、diablo2をクリアしました!";
+	cout << "次はナイトメアで2週目行くぜ！！";
+	cout << "できない(;^ω^)";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
